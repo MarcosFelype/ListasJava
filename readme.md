@@ -8,15 +8,19 @@ seguintes opções ao usuário:
 3. Calcular Perímetro
 0. Sair
    Obs.: � – ����; e � – ������.
-   Questão 02: Crie uma classe Círculo que tenha os métodos para calcular a área
+
+
+Questão 02: Crie uma classe Círculo que tenha os métodos para calcular a área
    ( ��!) e o perímetro (2��). Crie uma classe Teste que forneça as seguintes opções
    ao usuário:
-1. Criar um círculo (Informar valor de �)
-2. Calcular Área
-3. Calcular Perímetro
+2. Criar um círculo (Informar valor de �)
+3. Calcular Área
+4. Calcular Perímetro
 0. Sair
    Obs.: � – ����.
-   Questão 03: Escreva um programa para gerenciar o IMC de diferentes pessoas.
+
+
+Questão 03: Escreva um programa para gerenciar o IMC de diferentes pessoas.
    Para realizar o cadastro, o programa deve receber o peso, a altura e o nome de
    cada pessoa. Crie uma classe Teste que forneça as seguintes opções ao usuário:
 1. Cadastrar uma pessoa
